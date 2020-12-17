@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\GitHub\OpenCV-CPP\shapeAndContourDetection\Main\Main.cpp(16,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GitHub\OpenCV-CPP\shapeAndContourDetection\Main\Main.cpp(26,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Main.vcxproj -> D:\GitHub\OpenCV-CPP\shapeAndContourDetection\Main\x64\Debug\Main.exe
